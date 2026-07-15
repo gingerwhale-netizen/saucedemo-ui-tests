@@ -1,0 +1,9 @@
+.venv/
+.idea/
+.pytest_cache/
+__pycache__/
+allure-results/
+allure-report/
+
+# соседний проект со своим репозиторием
+Test-Bank/
