@@ -8,3 +8,6 @@ allure-report/
 # соседний проект со своим репозиторием
 Test-Bank/
 .claude/
+
+# локальные тесты вне курса
+tests/demoqa/
